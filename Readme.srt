@@ -1,0 +1,1 @@
+Taruh folder UasCbt di Xampp/htdocs
